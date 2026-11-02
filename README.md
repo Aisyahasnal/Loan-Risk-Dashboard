@@ -1,6 +1,6 @@
 # Loan-Risk-Dashboard
 
-# Credit Risk Dashboard: Analyzing Problem Loans in a Bank Portfolio
+# Credit Risk Dashboard: Analyzing Problem Loans
 
 An SQL + Power BI project that analyzes problem loans in a bank's loan portfolio.
 
