@@ -2,7 +2,7 @@
 
 # Credit Risk Dashboard: Analyzing Problem Loans in a Bank Portfolio
 
-An SQL + Power BI project that analyzes problem loans (Defaulted or Written Off) in a bank's loan portfolio.
+An SQL + Power BI project that analyzes problem loans in a bank's loan portfolio.
 
 ![Gambaran Umum](dashboard/GambaranUmum.png)
 ![Faktor Risiko](dashboard/FaktorRisiko.png)
