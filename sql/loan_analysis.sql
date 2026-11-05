@@ -5,7 +5,7 @@ Sumber    : Banking Transactions Dataset (loans, customers, branches)
 Definisi  : Pinjaman bermasalah = status 'Defaulted' atau 'Written Off'
 Cakupan   : Pinjaman dengan start_date sebelum 2025-01-01 (2010-2024)
 Asumsi    : Batas kelompok credit score, income, dan interest rate ditentukan manual
-Catatan   : Ada pembayaran bertanggal sebelum pinjaman dimulai (lihat data_quality_notes.md)
+Catatan   : Ada pembayaran bertanggal sebelum pinjaman dimulai
 Validasi  : 21.382 baris, 2.159 pinjaman bermasalah, total 898,2 juta
 */
 
