@@ -25,7 +25,7 @@ SELECT
          WHEN c.credit_score <= 550 THEN '451-550'
          WHEN c.credit_score <= 650 THEN '551-650'
          WHEN c.credit_score <= 750 THEN '651-750'
-         ELSE '5) 751-899' END AS score_band,
+         ELSE '751-899' END AS score_band,
     c.annual_income,
     CASE WHEN c.annual_income < 1000000 THEN '< 1 juta'
          WHEN c.annual_income < 2000000 THEN '1-2 juta'
